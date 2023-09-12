@@ -4,23 +4,6 @@ Open https://github.com/
 
 Register
 
-Download Git into your local
-
-https://git-scm.com/download/win
-
-Download exe file and install it
-
-Commads:
-git clone url
-
-git add *
-
-git commit -m "git basics teaching"   
-
-git push
-
-
-git status(Optional command to check status) 
 
 
 
