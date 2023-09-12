@@ -19,5 +19,8 @@ git commit -m "git basics teaching"
 
 git push
 
-//Dinesh
+
+git status(Optional command to check status) 
+
+
 
